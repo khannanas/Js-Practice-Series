@@ -1,0 +1,2 @@
+1.Create a div named card such that when we move mouse over it images should pop up and pop out 
+2. Whenever our mouse is moving then a card is creating which we dont need, we need atmost 8 to 9 card per horizontal slide of mouse

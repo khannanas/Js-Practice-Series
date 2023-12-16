@@ -1,0 +1,1 @@
+Make a rectangle and when we move mouse oon that rectangle on the left side we want to make the rectange move to the side and slow down the more mouse reaches to the left and do the same when mouse goes to right side

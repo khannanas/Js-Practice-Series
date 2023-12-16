@@ -1,0 +1,4 @@
+1. Get co ordinates where mouse is right now inside the div.
+2.Then at that co ordinates make a div and add image to it which is overflow hidden and when the mouse is move on that div slowly bring the image inside the div to make it visible.
+2. Mouse can move n number of times but execution should be less times. This concept is called Throttling.
+3.Throttling (Reduce number of execution of a chunk of code)
